@@ -1,0 +1,49 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "Full blog content goes here. This is plain text as required."
+    },
+    {
+      "title": "React + AI in Fintech",
+      "description": "How React and AI are changing modern financial applications.",
+      "content": "How React and AI are changing modern financial applications.\n",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-17T21:57:42.774Z",
+      "id": 2
+    },
+    {
+      "title": "Future of Fintech",
+      "description": "Exploring how ai and blockchain are transformiing",
+      "content": "The fintech industry",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-18T00:09:28.773Z",
+      "id": 3
+    },
+    {
+      "title": "React.js",
+      "description": "Understanding why react is the preferred choice",
+      "content": "React has become one of the most popular",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-18T00:10:30.244Z",
+      "id": 4
+    }
+  ]
+}
